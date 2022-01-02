@@ -6,3 +6,4 @@
 <br />
 <img align="left" alt="mallah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=otmallah&show_icons=true&hide_border=true" />
 
+[![otmallah's 42 stats](https://badge42.herokuapp.com/api/stats/otmallah)](https://github.com/otmallah/badge42)
