@@ -3,7 +3,6 @@
 - 🌱 I’m Currently Learning <a href="https://1337.ma/en">1337</a>
 - 📫 How to reach me: othmanmallah13@gmail.com
 
-[<img align="left" alt="othman mallah | world" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />][website]
 [<img align="left" alt="othman mallah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [![views](https://komarev.com/ghpvc/?username=otmallah&label=Profile%20views&color=fe75a9&style=flat)](https://github.com/otmallah/)
 [![views](https://komarev.com/ghpvc/?username=otmallah&label=Profile%20views&color=fe75a9&style=flat)](https://github.com/otmallah/)
@@ -12,6 +11,6 @@
 <br />
 <img align="left" alt="mallah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=otmallah&show_icons=true&hide_border=true" />
 
-[linkedin]: https://www.linkedin.com/in/el-mehdi-mallah-4581781ab/
+[linkedin]: https://www.linkedin.com/in/othman-mallah-b9a54b1b5/
 
 [![otmallah's 42 stats](https://badge42.herokuapp.com/api/stats/otmallah)](https://github.com/otmallah/badge42)
