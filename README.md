@@ -1,7 +1,13 @@
 ### Hi there 👋, I'm Othman Mallah
+### Computer Science Student
 
 - 🌱 I’m Currently Learning <a href="https://1337.ma/en">1337</a>
+
 - 📫 How to reach me: othmanmallah13@gmail.com
+
+- 👨‍💻 I mostly Code in **C/C++**
+
+- 👾 am currently working on **1337 Projects**
 
 [<img align="left" alt="othman mallah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [![views](https://komarev.com/ghpvc/?username=otmallah&label=Profile%20views&color=fe75a9&style=flat)](https://github.com/otmallah/)
