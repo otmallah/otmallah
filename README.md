@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Othman Mallah
 
 - 🌱 I’m Currently Learning <a href="https://1337.ma/en">1337</a>
 - 📫 How to reach me: othmanmallah13@gmail.com
