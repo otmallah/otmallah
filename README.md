@@ -14,7 +14,7 @@
 ![42](https://badgen.net/badge/Born2Code/otmallah/green?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fotmallah)
 <br />
 <br />
-<img align="left" alt="mallah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=otmallah&show_icons=true&hide_border=true" />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=otmallah&show_icons=true&locale=en&layout=compact" alt="otmallah" /></p>
 
 <img align="left" alt="mallah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=otmallah&show_icons=true&hide_border=true" />
 
@@ -24,5 +24,3 @@
 <br />
 
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=otmallah&show_icons=true&locale=en&layout=compact" alt="otmallah" /></p>
