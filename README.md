@@ -18,7 +18,7 @@
 
 <img align="left" alt="mallah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=otmallah&show_icons=true&hide_border=true" />
 
-[linkedin]: https://www.linkedin.com/in/othman-mallah-b9a54b1b5/
+[linkedin]: https://www.linkedin.com/in/othman-mallah-5a6891248/
 
 <br />
 <br />
