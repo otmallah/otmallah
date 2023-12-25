@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: othmanmallah13@gmail.com
 
-- 👨‍💻 I mostly Code in **C/C++**
+- 👨‍💻 I mostly Code in **C/C++/c#**
 
 - 👾 am currently working on **1337 Projects**
 
